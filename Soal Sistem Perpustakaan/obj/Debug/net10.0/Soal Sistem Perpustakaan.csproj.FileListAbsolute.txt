@@ -1,0 +1,14 @@
+E:\1. kuliah\SEM 2\PBO PR\Soal Sistem Perpustakaan\bin\Debug\net10.0\Soal Sistem Perpustakaan.exe
+E:\1. kuliah\SEM 2\PBO PR\Soal Sistem Perpustakaan\bin\Debug\net10.0\Soal Sistem Perpustakaan.deps.json
+E:\1. kuliah\SEM 2\PBO PR\Soal Sistem Perpustakaan\bin\Debug\net10.0\Soal Sistem Perpustakaan.runtimeconfig.json
+E:\1. kuliah\SEM 2\PBO PR\Soal Sistem Perpustakaan\bin\Debug\net10.0\Soal Sistem Perpustakaan.dll
+E:\1. kuliah\SEM 2\PBO PR\Soal Sistem Perpustakaan\bin\Debug\net10.0\Soal Sistem Perpustakaan.pdb
+E:\1. kuliah\SEM 2\PBO PR\Soal Sistem Perpustakaan\obj\Debug\net10.0\Soal Sistem Perpustakaan.GeneratedMSBuildEditorConfig.editorconfig
+E:\1. kuliah\SEM 2\PBO PR\Soal Sistem Perpustakaan\obj\Debug\net10.0\Soal Sistem Perpustakaan.AssemblyInfoInputs.cache
+E:\1. kuliah\SEM 2\PBO PR\Soal Sistem Perpustakaan\obj\Debug\net10.0\Soal Sistem Perpustakaan.AssemblyInfo.cs
+E:\1. kuliah\SEM 2\PBO PR\Soal Sistem Perpustakaan\obj\Debug\net10.0\Soal Sistem Perpustakaan.csproj.CoreCompileInputs.cache
+E:\1. kuliah\SEM 2\PBO PR\Soal Sistem Perpustakaan\obj\Debug\net10.0\Soal Sistem Perpustakaan.dll
+E:\1. kuliah\SEM 2\PBO PR\Soal Sistem Perpustakaan\obj\Debug\net10.0\refint\Soal Sistem Perpustakaan.dll
+E:\1. kuliah\SEM 2\PBO PR\Soal Sistem Perpustakaan\obj\Debug\net10.0\Soal Sistem Perpustakaan.pdb
+E:\1. kuliah\SEM 2\PBO PR\Soal Sistem Perpustakaan\obj\Debug\net10.0\Soal Sistem Perpustakaan.genruntimeconfig.cache
+E:\1. kuliah\SEM 2\PBO PR\Soal Sistem Perpustakaan\obj\Debug\net10.0\ref\Soal Sistem Perpustakaan.dll
